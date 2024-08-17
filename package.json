@@ -1,0 +1,39 @@
+{
+  "name": "brat",
+  "displayName": "BRAT",
+  "description": "A FAN MADE theme based off charli xcx's album BRAT. Not affliated with the charli's team.",
+  "icon": "images/logo.png",
+  "publisher": "redi-cool-themes",
+  "author": "REDI CURRI",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/4redi/brat-theme.git"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes",
+    "Extension Packs",
+    "Other"
+  ],
+  "Keywords":[
+"Fan Made",
+"Brat",
+"Charli XCX",
+"Album"
+],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BRAT",
+        "uiTheme": "vs",
+        "path": "./themes/BRAT-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
+}
