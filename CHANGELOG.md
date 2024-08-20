@@ -6,6 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
-- version1.0 - Default Brat theme
+-0.1Default Brat theme
+-1.0 New
+1) Fixed comments in light mode
+2) Brat dark mode is out!
 
 
