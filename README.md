@@ -20,7 +20,7 @@ You can download the theme by typing BRAT in the extension bar/tab then set it a
 # UPCOMING
 
 1) Maybe an icon set
-2) New color version for dark mode
+2) New color version for dark mode (Already Out!)
 
 <hr>
 
