@@ -29,6 +29,11 @@
         "label": "BRAT",
         "uiTheme": "vs",
         "path": "./themes/brat-color-theme.json"
+      },
+      {
+        "label": "BRAT DARK THEME",
+        "uiTheme":"vs",
+        "path":"./themes/brat-dark-theme.json"
       }
     ]
   },
